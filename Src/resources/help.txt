@@ -1,0 +1,18 @@
+
+
+C++ program to show xml layouts received over TCP/IP connection
+
+usage:
+universal information display
+
+parametre:
+-h : this help
+-v : show version of program
+-e [800x600] : emulator version (run in window insted of FullScreen) with default resolution 800x600
+-p [15000]: define listening port, default 15000
+-d [0]: define diplay ID, where app will run [default 0]
+-l [10]: number of stored log files [default 10]
+
+Tomas Kello
+kello.tomas@gmail.com
++421 948 029 936
